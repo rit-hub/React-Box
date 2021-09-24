@@ -1,0 +1,13 @@
+Do the following steps using root permission
+
+> npm install -g firebase-tools
+>firebase logout
+>firebse login
+>firebase init
+choose hosting (select by pressing <space>) then hit <enter>
+choose existing project
+select project
+type 'build' in place of public
+
+> npm run build
+>firebase deploy
